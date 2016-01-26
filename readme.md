@@ -1,12 +1,12 @@
 #AngularJS-RequireJS-Sass-Gulp Boilerplate
 
-# Install all npm components
+ Install all npm components
 `$ npm install`
 
-# Install all bower related components
+ Install all bower related components
 `$ bower install`
 
-#To Run Server
+To Run Server
 `$ gulp webserver
 
-#Then access project through url localhost:8080/app
+Then access project through url localhost:8080/app
