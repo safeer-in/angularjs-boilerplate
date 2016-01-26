@@ -9,7 +9,7 @@ var gulp 		   = require('gulp'),
     connect 	 = require('gulp-connect');
 
 
-gulp.task('default', ['sass', 'webserver', 'watch']);
+gulp.task('default', ['webserver', 'watch']);
 
 gulp.task('sass', function() {
     gulp.src('src/styles/**/*.sass')
