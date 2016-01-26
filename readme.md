@@ -7,6 +7,7 @@
 `$ bower install`
 
 To Run Server
+
 `$ gulp webserver`
 
 Then access project through url localhost:8080/app
