@@ -1,7 +1,7 @@
 #AngularJS-RequireJS-Sass-Gulp Boilerplate
 
 Dynamic loading of controllers and views using RequireJS and angular route provider's `resolve` property. 
-Supports modular folder structure. multiple views also supported anguar ui-router is used for routing.
+Supports modular folder structure. Multiple views also supported since anguar ui-router is used for routing.
 Thanks to https://github.com/DanWahlin for the Idea. (http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs)
 
  Install npm components
