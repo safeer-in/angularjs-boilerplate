@@ -1,10 +1,14 @@
 #AngularJS-RequireJS-Sass-Gulp Boilerplate
 
- Install all npm components
+Dynamic loading of controllers and views using RequireJS and angular route provider's `resolve` property. 
+Supports modular folder structure. multiple views also supported anguar ui-router is used for routing.
+Thanks to https://github.com/DanWahlin for the Idea. (http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs)
+
+ Install npm components
  
 `$ npm install`
 
- Install all bower related components
+ Install bower components
 
 `$ bower install`
 
